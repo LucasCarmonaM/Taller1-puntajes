@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588367030 source:c:\users\lucas\desktop\c++\taller 1 cpd\editorpuntajescsv\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<random>
+	<omp.h>
+	<ctime>
+	<string>
+	<time.h>
+
